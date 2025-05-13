@@ -22,7 +22,9 @@ To be considered a **valid wave** (subset `O'` of orders), the following constra
 
 1. **Wave size constraints:**
 ```math
-∑_{o ∈ O'} ∑_{i ∈ I_o} u_{oi} ≥ LB  
+∑_{o ∈ O'} ∑_{i ∈ I_o} u_{oi} ≥ LB
+```
+```math
 ∑_{o ∈ O'} ∑_{i ∈ I_o} u_{oi} ≤ UB
 ```
 
