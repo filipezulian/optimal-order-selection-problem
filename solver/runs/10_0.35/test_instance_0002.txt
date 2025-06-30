@@ -1,0 +1,4 @@
+4
+2
+
+Solução para test_instance_0002.txt: 2.00 (itens/corredor)

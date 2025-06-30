@@ -1,0 +1,5 @@
+4 9 10 19 33 72
+7 16 58 102
+
+
+Solução para test_instance_0003.txt: 8.25 (itens/corredor)

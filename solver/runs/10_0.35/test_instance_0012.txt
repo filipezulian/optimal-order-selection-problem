@@ -1,0 +1,5 @@
+81 86 97
+19 31 101 104 144 181 182 218
+
+
+Solução para test_instance_0012.txt: 4.50 (itens/corredor)

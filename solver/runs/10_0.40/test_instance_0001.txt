@@ -1,0 +1,5 @@
+26 29 41 42 46 57 60
+4 15 43 71 97
+
+
+Solução para test_instance_0001.txt: 6.00 (itens/corredor)

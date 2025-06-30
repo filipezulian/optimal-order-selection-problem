@@ -1,0 +1,4 @@
+2 37 38 39 53
+6 25 52 64 99
+
+iterations=100, randomizer=0.6 (Solução: 6.4 (itens/corredor))

@@ -1,0 +1,4 @@
+0 1
+0
+
+iterations=100, randomizer=0.3 (Solução: 10.00 (itens/corredor))

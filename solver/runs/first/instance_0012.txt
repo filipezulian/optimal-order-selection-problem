@@ -1,0 +1,5 @@
+66 86 89
+19 20 31 62 63 101 103 143 182 218
+
+Solução para instance_0012.txt: 4.30 (itens/corredor)
+config: iterations=10, randomizer=0.3, timeout=700

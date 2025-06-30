@@ -1,0 +1,4 @@
+11 13 34 52 66 72
+6 16 26 46 61 91
+
+Solução para test_instance_0003.txt: 6.50 (itens/corredor)

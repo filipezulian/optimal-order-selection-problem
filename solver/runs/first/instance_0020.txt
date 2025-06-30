@@ -1,0 +1,5 @@
+0 2 4
+0 1
+
+Solução para instance_0020.txt: 4.00 (itens/corredor)
+config: iterations=10, randomizer=0.3, timeout=700

@@ -1,0 +1,6 @@
+12
+27 39 54
+
+
+Solução para instance_0004.txt: 2.33 (itens/corredor)
+config: iterations=10, randomizer=0.3, timeout=700

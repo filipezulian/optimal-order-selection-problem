@@ -1,0 +1,5 @@
+4 9 10 19 22 72
+7 16 23 102
+
+Solução para instance_0003.txt: 8.50 (itens/corredor)
+config: iterations=10, randomizer=0.3, timeout=700

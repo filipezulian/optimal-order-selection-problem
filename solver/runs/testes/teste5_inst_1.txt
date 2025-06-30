@@ -1,0 +1,4 @@
+2 6 11 18 23 29 46 53 55
+6 15 43 52 64 71 97 99
+
+instance, iterations=10, randomizer=0.5, timeout=10

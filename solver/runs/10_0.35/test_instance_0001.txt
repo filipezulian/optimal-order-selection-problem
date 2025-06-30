@@ -1,0 +1,5 @@
+2 6 11 19 29 41 46 53 55 57
+6 15 43 52 64 71 97 99
+
+
+Solução para test_instance_0001.txt: 6.38 (itens/corredor)
